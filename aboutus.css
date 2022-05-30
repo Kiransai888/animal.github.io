@@ -1,0 +1,10 @@
+*{
+    background-image: url(bench-accounting-nvzvOPQW0gc-unsplash.jpg);
+    background-size: cover;
+}
+span{
+    color: #333;
+    justify-content: center;
+    padding-left: 2%;
+    text-transform: capitalize;
+}

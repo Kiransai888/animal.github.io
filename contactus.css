@@ -1,0 +1,10 @@
+*{
+    background-color: #333;
+    color: white;
+    padding: auto;
+}
+span{
+    color: #f9004d;
+    justify-content: center;
+    text-transform: capitalize;
+}
